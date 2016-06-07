@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:59:05.164309
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:28
 #+TITLE: 漩澓偈
 #+PROPERTY: CBETA_ID F28n1083
 #+PROPERTY: ID KR6e0160
 #+PROPERTY: SOURCE Fangshan shijing Vol. 28, No. 1083
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION F
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0160_F_000-0627b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0160_F_001-0627b> ¶¶¶¶
 #+PROPERTY: JUAN 1
-
- 漩澓偈杜順法師作¶
+漩澓偈杜順法師作¶
 
 #+BEGIN_VERSE
 「　若人欲識真空理
@@ -27,95 +26,95 @@
 　秖用一念觀諸境
 　一切諸境同時會¶
 　時處帝網現重重
-　一切智通無𦊱㝵
+　一切智通無𦊱㝵」
 #+END_VERSE
-」¶
+¶
 
 (第一句)
 #+BEGIN_VERSE
-「　真空不動智凡聖本來同雖為万有體曾無起作功
+「　真空不動智凡聖本來同雖為万有體曾無起作功」
 #+END_VERSE
-」¶
+¶
 
 (第二句)
 #+BEGIN_VERSE
-「　真如無作性彌亘等虛空豈如浮漚質出沒在海中
+「　真如無作性彌亘等虛空豈如浮漚質出沒在海中」
 #+END_VERSE
-」¶
+¶
 
 (第三句)
 #+BEGIN_VERSE
-「　無情無自性性體發於真頓現如鏡像誰作自他身
+「　無情無自性性體發於真頓現如鏡像誰作自他身」
 #+END_VERSE
-」¶
+¶
 
 (第四句)
 #+BEGIN_VERSE
-「　智現情無㝵心通事豈妨事理融無二何處非道場
+「　智現情無㝵心通事豈妨事理融無二何處非道場」
 #+END_VERSE
-」¶
+¶
 
 (第五六句)
 #+BEGIN_VERSE
-「　幻性本無宗根塵結色空了塵無自性一切法皆同
+「　幻性本無宗根塵結色空了塵無自性一切法皆同」
 #+END_VERSE
-」¶
+¶
 
 (第七句)
 #+BEGIN_VERSE
-「　絕念超情識如鏡照十方万像斯頓現那假在思量
+「　絕念超情識如鏡照十方万像斯頓現那假在思量」
 #+END_VERSE
-」¶
+¶
 
 (第八句)
 #+BEGIN_VERSE
 「　譬如一鏡鑒十方
 　十方一一鏡皆同¶
 　無㝵心鏡照古今
-　九世重重[牙-(必-心)+一]相容
+　九世重重互相容」
 #+END_VERSE
-」¶
+¶
 
 (第九句)
 #+BEGIN_VERSE
 「　心為万法宗万法一心通
-　毛端一滴海一切海皆同
+　毛端一滴海一切海皆同」
 #+END_VERSE
-」¶
+¶
 
 (第十句)
 #+BEGIN_VERSE
 「　一一万法體同空
-　一一虛空[牙-(必-心)+一]相容¶
+　一一虛空互相容¶
 　一海魚龍尚無盡
-　一切海中多少龍
+　一切海中多少龍」
 #+END_VERSE
-」¶
+¶
 
 (第十一十二句)
 #+BEGIN_VERSE
 「　三際無思理等空
 　空中何法不含容¶
 　一智万差融事理
-　塵塵剎剎普皆同
+　塵塵剎剎普皆同」
 #+END_VERSE
-」¶
+¶
 
 (第十三十四句)
 #+BEGIN_VERSE
 「　寂用繫興帝網宗
 　一塵纔舉十方通¶
 　六相十玄融斯理
-　主伴交暎[牙-(必-心)+一]重重
+　主伴交暎互重重」
 #+END_VERSE
-」¶
+¶
 
 (通頌前文)
 又讚曰¶
 
 #+BEGIN_VERSE
 「　尊從悲智起文殊海一漚片言通帝網漩澓顯深幽¶
-　一心圓頓備十重万行周無邊花藏界攝在一毛頭
+　一心圓頓備十重万行周無邊花藏界攝在一毛頭」
 #+END_VERSE
-」¶
+¶
 釋花嚴漩澓偈
